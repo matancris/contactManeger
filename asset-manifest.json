@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/contactManeger/static/css/main.680291b4.chunk.css",
-    "main.js": "/contactManeger/static/js/main.37ff2218.chunk.js",
-    "main.js.map": "/contactManeger/static/js/main.37ff2218.chunk.js.map",
+    "main.css": "/contactManeger/static/css/main.c81d6a6e.chunk.css",
+    "main.js": "/contactManeger/static/js/main.939728b7.chunk.js",
+    "main.js.map": "/contactManeger/static/js/main.939728b7.chunk.js.map",
     "runtime-main.js": "/contactManeger/static/js/runtime-main.b3f73228.js",
     "runtime-main.js.map": "/contactManeger/static/js/runtime-main.b3f73228.js.map",
-    "static/js/2.7685a90c.chunk.js": "/contactManeger/static/js/2.7685a90c.chunk.js",
-    "static/js/2.7685a90c.chunk.js.map": "/contactManeger/static/js/2.7685a90c.chunk.js.map",
+    "static/js/2.b30d114c.chunk.js": "/contactManeger/static/js/2.b30d114c.chunk.js",
+    "static/js/2.b30d114c.chunk.js.map": "/contactManeger/static/js/2.b30d114c.chunk.js.map",
     "index.html": "/contactManeger/index.html",
-    "static/css/main.680291b4.chunk.css.map": "/contactManeger/static/css/main.680291b4.chunk.css.map",
-    "static/js/2.7685a90c.chunk.js.LICENSE.txt": "/contactManeger/static/js/2.7685a90c.chunk.js.LICENSE.txt",
+    "static/css/main.c81d6a6e.chunk.css.map": "/contactManeger/static/css/main.c81d6a6e.chunk.css.map",
+    "static/js/2.b30d114c.chunk.js.LICENSE.txt": "/contactManeger/static/js/2.b30d114c.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/contactManeger/static/media/Grandstander-Regular.821c368e.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b3f73228.js",
-    "static/js/2.7685a90c.chunk.js",
-    "static/css/main.680291b4.chunk.css",
-    "static/js/main.37ff2218.chunk.js"
+    "static/js/2.b30d114c.chunk.js",
+    "static/css/main.c81d6a6e.chunk.css",
+    "static/js/main.939728b7.chunk.js"
   ]
 }
